@@ -1,0 +1,22 @@
+{
+  "name": "@hf-solutions/tpolls-sdk",
+  "version": "0.0.1",
+  "description": "The SDK for working with the TPolls API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HF-Solutions/TPolls-SDK.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HF-Solutions/TPolls-SDK/issues"
+  },
+  "homepage": "https://github.com/HF-Solutions/TPolls-SDK#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
